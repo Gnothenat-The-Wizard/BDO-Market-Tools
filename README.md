@@ -9,3 +9,4 @@ The tool will collect the silver from you listing and re-list another stack unti
 
 ## User details
 In order to use this tool you need to set some details that will allow the tool to make requests to the Markets API on your behalf.
+In general it is not a good idea to share these details as with them someone could empty you marketplace by selling all items. Then, buying items and relisting them for less silver to drain your marketplace of silver.
